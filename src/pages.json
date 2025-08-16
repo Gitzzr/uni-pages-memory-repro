@@ -87,6 +87,506 @@
           }
         }
       ]
+    },
+    {
+      "root": "pages-admin",
+      "pages": [
+        {
+          "path": "admin-page-1/admin-page-1",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-10/admin-page-10",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-11/admin-page-11",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-12/admin-page-12",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-13/admin-page-13",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-14/admin-page-14",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-15/admin-page-15",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-16/admin-page-16",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-17/admin-page-17",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-18/admin-page-18",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-19/admin-page-19",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-2/admin-page-2",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-20/admin-page-20",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-3/admin-page-3",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-4/admin-page-4",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-5/admin-page-5",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-6/admin-page-6",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-7/admin-page-7",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-8/admin-page-8",
+          "type": "page"
+        },
+        {
+          "path": "admin-page-9/admin-page-9",
+          "type": "page"
+        }
+      ]
+    },
+    {
+      "root": "pages-customer",
+      "pages": [
+        {
+          "path": "customer-page-1/customer-page-1",
+          "type": "page"
+        },
+        {
+          "path": "customer-page-10/customer-page-10",
+          "type": "page"
+        },
+        {
+          "path": "customer-page-2/customer-page-2",
+          "type": "page"
+        },
+        {
+          "path": "customer-page-3/customer-page-3",
+          "type": "page"
+        },
+        {
+          "path": "customer-page-4/customer-page-4",
+          "type": "page"
+        },
+        {
+          "path": "customer-page-5/customer-page-5",
+          "type": "page"
+        },
+        {
+          "path": "customer-page-6/customer-page-6",
+          "type": "page"
+        },
+        {
+          "path": "customer-page-7/customer-page-7",
+          "type": "page"
+        },
+        {
+          "path": "customer-page-8/customer-page-8",
+          "type": "page"
+        },
+        {
+          "path": "customer-page-9/customer-page-9",
+          "type": "page"
+        }
+      ]
+    },
+    {
+      "root": "pages-mall",
+      "pages": [
+        {
+          "path": "mall-page-1/mall-page-1",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-10/mall-page-10",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-11/mall-page-11",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-12/mall-page-12",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-13/mall-page-13",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-14/mall-page-14",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-15/mall-page-15",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-16/mall-page-16",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-17/mall-page-17",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-18/mall-page-18",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-19/mall-page-19",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-2/mall-page-2",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-20/mall-page-20",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-21/mall-page-21",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-22/mall-page-22",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-23/mall-page-23",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-24/mall-page-24",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-25/mall-page-25",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-26/mall-page-26",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-27/mall-page-27",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-28/mall-page-28",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-29/mall-page-29",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-3/mall-page-3",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-30/mall-page-30",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-31/mall-page-31",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-32/mall-page-32",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-33/mall-page-33",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-34/mall-page-34",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-35/mall-page-35",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-36/mall-page-36",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-37/mall-page-37",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-38/mall-page-38",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-39/mall-page-39",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-4/mall-page-4",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-40/mall-page-40",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-41/mall-page-41",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-42/mall-page-42",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-43/mall-page-43",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-44/mall-page-44",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-45/mall-page-45",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-46/mall-page-46",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-47/mall-page-47",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-48/mall-page-48",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-49/mall-page-49",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-5/mall-page-5",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-50/mall-page-50",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-6/mall-page-6",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-7/mall-page-7",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-8/mall-page-8",
+          "type": "page"
+        },
+        {
+          "path": "mall-page-9/mall-page-9",
+          "type": "page"
+        }
+      ]
+    },
+    {
+      "root": "pages-store",
+      "pages": [
+        {
+          "path": "store-page-1/store-page-1",
+          "type": "page"
+        },
+        {
+          "path": "store-page-10/store-page-10",
+          "type": "page"
+        },
+        {
+          "path": "store-page-11/store-page-11",
+          "type": "page"
+        },
+        {
+          "path": "store-page-12/store-page-12",
+          "type": "page"
+        },
+        {
+          "path": "store-page-13/store-page-13",
+          "type": "page"
+        },
+        {
+          "path": "store-page-14/store-page-14",
+          "type": "page"
+        },
+        {
+          "path": "store-page-15/store-page-15",
+          "type": "page"
+        },
+        {
+          "path": "store-page-16/store-page-16",
+          "type": "page"
+        },
+        {
+          "path": "store-page-17/store-page-17",
+          "type": "page"
+        },
+        {
+          "path": "store-page-18/store-page-18",
+          "type": "page"
+        },
+        {
+          "path": "store-page-19/store-page-19",
+          "type": "page"
+        },
+        {
+          "path": "store-page-2/store-page-2",
+          "type": "page"
+        },
+        {
+          "path": "store-page-20/store-page-20",
+          "type": "page"
+        },
+        {
+          "path": "store-page-21/store-page-21",
+          "type": "page"
+        },
+        {
+          "path": "store-page-22/store-page-22",
+          "type": "page"
+        },
+        {
+          "path": "store-page-23/store-page-23",
+          "type": "page"
+        },
+        {
+          "path": "store-page-24/store-page-24",
+          "type": "page"
+        },
+        {
+          "path": "store-page-25/store-page-25",
+          "type": "page"
+        },
+        {
+          "path": "store-page-26/store-page-26",
+          "type": "page"
+        },
+        {
+          "path": "store-page-27/store-page-27",
+          "type": "page"
+        },
+        {
+          "path": "store-page-28/store-page-28",
+          "type": "page"
+        },
+        {
+          "path": "store-page-29/store-page-29",
+          "type": "page"
+        },
+        {
+          "path": "store-page-3/store-page-3",
+          "type": "page"
+        },
+        {
+          "path": "store-page-30/store-page-30",
+          "type": "page"
+        },
+        {
+          "path": "store-page-31/store-page-31",
+          "type": "page"
+        },
+        {
+          "path": "store-page-32/store-page-32",
+          "type": "page"
+        },
+        {
+          "path": "store-page-33/store-page-33",
+          "type": "page"
+        },
+        {
+          "path": "store-page-34/store-page-34",
+          "type": "page"
+        },
+        {
+          "path": "store-page-35/store-page-35",
+          "type": "page"
+        },
+        {
+          "path": "store-page-36/store-page-36",
+          "type": "page"
+        },
+        {
+          "path": "store-page-37/store-page-37",
+          "type": "page"
+        },
+        {
+          "path": "store-page-38/store-page-38",
+          "type": "page"
+        },
+        {
+          "path": "store-page-39/store-page-39",
+          "type": "page"
+        },
+        {
+          "path": "store-page-4/store-page-4",
+          "type": "page"
+        },
+        {
+          "path": "store-page-40/store-page-40",
+          "type": "page"
+        },
+        {
+          "path": "store-page-5/store-page-5",
+          "type": "page"
+        },
+        {
+          "path": "store-page-6/store-page-6",
+          "type": "page"
+        },
+        {
+          "path": "store-page-7/store-page-7",
+          "type": "page"
+        },
+        {
+          "path": "store-page-8/store-page-8",
+          "type": "page"
+        },
+        {
+          "path": "store-page-9/store-page-9",
+          "type": "page"
+        }
+      ]
     }
   ]
 }
